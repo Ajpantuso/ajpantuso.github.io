@@ -28,7 +28,7 @@ reliable, secure, and scalable managed services on top of _Managed OpenShift_.
 
 #### Site Reliability Engineer (May 2021 - Oct 2021)
 
-- Helped service teams to define and implement track their SLO's
+- Helped service teams to define and implement tracking of their SLO's
   by exposing SLI's and writing alerting rules per their needs.
 - Wrote performance test suites for assessing service scalability
   and capacity requirements.
@@ -36,7 +36,7 @@ reliable, secure, and scalable managed services on top of _Managed OpenShift_.
 
 #### Senior Support Engineer (Sep 2020 - May 2021)
 
-- Expanded team and responsibilites to support a full division.
+- Expanded team and responsibilites to support a full business division.
 - Executed disaster recovery exercises with fully remote teams
   during the pandemic.
 - Helped define requirements for a new decentralized support
@@ -44,7 +44,8 @@ reliable, secure, and scalable managed services on top of _Managed OpenShift_.
 
 #### Application Support Analyst II (Dec 2018 - Sep 2020)
 
-- Transitioned to a FTE role and served as a team lead.
+- Served as a team lead supervising other team members and
+  acting as a primary point of contact for customers.
 - Ran an on-call rotation and served as a primary POC for all
   incident management tasks.
 - Transitioned team to an agile workflow focused on OKR's such as MTTR.
