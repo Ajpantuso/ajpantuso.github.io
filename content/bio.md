@@ -19,7 +19,7 @@ of _Managed OpenShift_.
 #### Senior Site Reliability Engineer (Oct 2022 - Present)
 
 - Served as a functional team lead to manage region-based
-  initiatives and lend technical expertiese to drive
+  initiatives and lend technical expertise to drive
   solutions.
 
 #### Site Reliability Engineer (Nov 2021 - Oct 2022)
