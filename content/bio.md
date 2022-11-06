@@ -6,16 +6,23 @@ draft: false
 
 ## Bio
 
-I am a Site Reliability Engineer currently working at _Red Hat_ helping build and deploy
-reliable, secure, and scalable managed services on top of _Managed OpenShift_.
+I am a Senior Site Reliability Engineer currently working at _Red Hat_ helping
+build and deploy reliable, secure, and scalable managed services on top
+of _Managed OpenShift_.
 
 ---
 
 ## Work Experience
 
-### **Red Hat Inc.** (Nov 2021 - Present)
+### **Red Hat Inc.**
 
-#### Site Reliability Engineer
+#### Senior Site Reliability Engineer (Oct 2022 - Present)
+
+- Served as a functional team lead to managed region-based
+  initiatives and lend technical expertiese to drive
+  solutions.
+
+#### Site Reliability Engineer (Nov 2021 - Oct 2022)
 
 - Managed a service deployment pipeline to faciliate CI/CD
   for managed services on _OpenShift_.
