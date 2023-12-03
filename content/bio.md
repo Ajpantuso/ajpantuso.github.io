@@ -21,6 +21,8 @@ of _Managed OpenShift_.
 - Served as a functional team lead to manage region-based
   initiatives and lend technical expertise to drive
   solutions.
+- Led SRE engagement for managed AI offerings on OpenShift.
+- Designed resiliency solutions for bin-packed Kubernetes control plane components.
 
 #### Site Reliability Engineer (Nov 2021 - Oct 2022)
 
